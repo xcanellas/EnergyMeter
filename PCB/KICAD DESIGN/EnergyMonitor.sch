@@ -312,14 +312,6 @@ Wire Wire Line
 	3300 3100 3100 3100
 Wire Wire Line
 	2750 3550 3300 3550
-Wire Wire Line
-	11900 2350 12450 2350
-Wire Wire Line
-	11900 2250 12450 2250
-Text Label 12450 2250 2    50   ~ 0
-CT_SENSOR4
-Text Label 12450 2350 2    50   ~ 0
-CT_SENSOR5
 Connection ~ 5250 5150
 $Comp
 L Analog_ADC:ADS1115IDGS U2
